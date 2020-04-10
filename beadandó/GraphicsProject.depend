@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1582372869 source:c:\users\gábor\desktop\c++ graphics start\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+	<fstream>
+
+1488256928 c:\users\gábor\desktop\c++ graphics start\include\graphics.hpp
+	<string>
+
+1582985847 source:c:\users\gábor\desktop\képes\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+
+1488256928 c:\users\gábor\desktop\képes\include\graphics.hpp
+	<string>
+
+1583614587 source:c:\users\gábor\desktop\3pöttyös\main.cpp
+	"graphics.hpp"
+	<vector>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	<math.h>
+
+1488256928 c:\users\gábor\desktop\3pöttyös\include\graphics.hpp
+	<string>
+
+1583785203 source:c:\users\gábor\desktop\cimkék\main.cpp
+	"graphics.hpp"
+	<vector>
+	<iostream>
+	<sstream>
+	<time.h>
+
+1488256928 c:\users\gábor\desktop\cimkék\include\graphics.hpp
+	<string>
+
+1584450177 source:c:\users\gábor\desktop\c++ gyakok\main.cpp
+	"graphics.hpp"
+	<cstdlib>
+	<time.h>
+	<vector>
+	<fstream>
+
+1488256928 c:\users\gábor\desktop\c++ gyakok\include\graphics.hpp
+	<string>
+
+1585753468 source:c:\users\gábor\desktop\ray cast\main.cpp
+	"widget.hpp"
+
+1488260528 c:\users\gábor\desktop\ray cast\include\graphics.hpp
+	<string>
+
+1585746360 c:\users\gábor\desktop\ray cast\osztaly.hpp
+	"graphics.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<math.h>
+
+1585746323 source:c:\users\gábor\desktop\ray cast\osztaly.cpp
+	"osztaly.hpp"
+
+1585756742 c:\users\gábor\desktop\ray cast\widget.hpp
+	"graphics.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<math.h>
+
+1585747557 source:c:\users\gábor\desktop\ray cast\widget.cpp
+	"widget.hpp"
+
+1586533913 source:c:\users\gábor\desktop\prog\beadandó\main.cpp
+	"widget.hpp"
+
+1586533971 c:\users\gábor\desktop\prog\beadandó\widget.hpp
+	"graphics.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<sstream>
+	<fstream>
+
+1488260528 c:\users\gábor\desktop\prog\beadandó\include\graphics.hpp
+	<string>
+
+1586541612 source:c:\users\gábor\desktop\prog\beadandó\widget.cpp
+	"widget.hpp"
+
